@@ -1,4 +1,4 @@
-# Сурнов Евгений — портфолио Python-разработчика
+Портфолио Python-разработчика
 
 Backend: Django / DRF / Flask · ML: PyTorch / fastai · Desktop: Electron / pywebview
 Продакшн-опыт: развёртывание и сопровождение систем на VPS (nginx + systemd + PostgreSQL + Redis)
